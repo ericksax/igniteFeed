@@ -1,0 +1,13 @@
+.container {
+    margin: 0 auto;
+    height: 6.25rem;
+    width: auto;
+    background-color: var(--gray-800);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    font-size: 1.6rem;
+    color: var(--gray-100);
+    gap: 1rem;
+}
